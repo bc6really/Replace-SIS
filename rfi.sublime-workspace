@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rfi.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en-us\">\n<head>\n	<!-- Latest compiled and minified CSS -->\n	<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\" integrity=\"sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==\" crossorigin=\"anonymous\">\n\n	<!-- Optional theme -->\n	<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css\" integrity=\"sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX\" crossorigin=\"anonymous\">\n\n	<!-- Latest compiled and minified JavaScript -->\n	<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js\" integrity=\"sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==\" crossorigin=\"anonymous\"></script>\n\n	<title>Muhlenberg College - ERP Request for Information</title>\n</head>\n<body>\n<h1>Muhlenberg College - ERP Request for Information</h1>\n<h2>1.0 General Background Information</h2>\n<h3>1.1 Purpose</h3>\n<p>The purpose of this Request for Information (RFI) is to provide sufficient information to qualified and interested vendors enabling them to prepare and submit a proposal for an Enterprise Resource Planning System (ERP).  Currently the College uses an best of breed business application strategy and wishes to move to an ERP strategy.  The Student Information System (SIS), Capstone, which has been in use at the College has been in use for more than 30 years.  This system is the has been the hub of all student data.  We are looking to fortify our business continuity and improve trend forecasting.  The College seeks numerous improvements such as increased ability for end-user customization, ease of alumni account creation and modification, increased ability/ease for the Alumni Office staff to communicate with Alumni, and increased integration of the system with the Millennium application in use by the Development Office.</p>\n</body>\n</html>\n",
+			"file": "rfi.html",
+			"file_size": 2016,
+			"file_write_time": 130929405860000000,
+			"settings":
+			{
+				"buffer_size": 1995,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/User/tc.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 320,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/K/Documentation/Capstone Migration/RFI"
+	],
+	"file_history":
+	[
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/K/Documentation/Capstone Migration/RFI/rfi.sublime-project",
+		"/K/Documentation/Capstone Migration/RFI/mysnippets.sublime-snippet",
+		"/K/Documentation/Capstone Migration/RFI/rfi.html",
+		"/K/Documentation/Capstone Migration/RFI/tc.sublime-snippet",
+		"/H/SQL/trackit_queries2.sql",
+		"/H/SQL Server Management Studio/Projects/TrackItInventoryLoad/TrackItInventoryLoad/Step5 Add Workstations.sql",
+		"//vm-sql2k8-maint/c$/EXE/IDWorksSync/IDWorksSync.exe.config",
+		"//phineas/home/Home/FINAID/SHARED/New IAM/dslf16op.002",
+		"//phineas/home/Home/FINAID/SHARED/New IAM/dslf15op.014",
+		"/C/Users/John/Documents/GroupWise/dslf15op.009",
+		"/H/SQL/trackit_queries.sql",
+		"//r25liveasvprod/c$/WebServices30/reports/std/ws/SpUtilizationExcel.xsl",
+		"/C/Users/John/Source/MailRoomComboAndBoxMaintainer/MailRoomComboAndBoxMaintainer.sln",
+		"/C/Users/John/Downloads/PA.rdl",
+		"/C/Users/John/Documents/Visual Studio 2008/Projects/MailRoomComboAndBoxMaintainer.root/MailRoomComboAndBoxMaintainer/MailRoomComboAndBoxMaintainer.sln",
+		"/C/Users/John/Documents/GroupWise/datain.dat",
+		"/L/VagrantBaseBoxes/vagrantfile-windows_7.template",
+		"/L/VagrantBaseBoxes/Windows7.json",
+		"/L/VagrantBaseBoxes/Windows7/Windows7.json",
+		"/L/VagrantBaseBoxes/Windows7/answer_files/7/Autounattend.xml",
+		"/L/VagrantBaseBoxes/Scripts/openssh.ps1",
+		"/L/VagrantBaseBoxes/Scripts/win-updates.ps1",
+		"/L/VagrantBaseBoxes/Scripts/microsoft-updates.bat",
+		"/L/VagrantBaseBoxes/Scripts/dis-updates.ps1",
+		"/L/VagrantBaseBoxes/Scripts/compact.bat",
+		"/L/VagrantBaseBoxes/Scripts/compile-dotnet-assemblies.bat",
+		"/L/VagrantBaseBoxes/Scripts/enable-rdp.bat",
+		"/L/VagrantBaseBoxes/answer_files/7/Autounattend.xml",
+		"/L/VagrantBaseBoxes/Scripts/disable-auto-logon.bat",
+		"/H/Server Migration/SQL Servers",
+		"/L/VagrantBaseBoxes/Scripts/vm-guest-tools.bat",
+		"/D/Documents/What to do.txt",
+		"/L/VagrantBaseBoxes/Scripts/vagrant-ssh.bat",
+		"/L/VagrantBaseBoxes/chef.bat",
+		"/C/WebSites/WebPurchasing/Bin/CrystalPowerToys.xml",
+		"/H/Yearly/2015/Muhlenberg2019.csv",
+		"//phineas/HOME/Home/Development/Shared/Records&Research/Segundo/SSRS_Muhl/Special/Special/UpgradeLog.XML",
+		"/C/vagrantTestVMs/windows7x64/Vagrantfile",
+		"/L/VirtualBox VMs/ZAV_Windows7/ZAV_Windows7.vbox",
+		"/L/VirtualBox VMs/ZAV_Windows7/ZAV_Windows7.vbox-prev",
+		"/H/Yearly/2015/Muhlenberg2019Export.txt",
+		"/H/Yearly/2015/updateprox2.sql",
+		"/I/Datacard/DataCard  32bit Security.reg",
+		"/K/Documentation/Freshman/UpdateFreshmanProxNumbers.ps1",
+		"/H/Yearly/2015/updateprox.sql",
+		"/H/Yearly/2015/Cards/Muhlenberg2019.csv",
+		"/H/Yearly/2013/HDO/hdo_freshman_2017_proxno.csv",
+		"/H/Yearly/2014/HDO/hdo_freshman_2018.csv"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"K:\\Documentation\\Capstone Migration\\RFI"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			"$",
+			"^",
+			",",
+			"BookSmarts - "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"|",
+			"\"",
+			"\",\"",
+			"",
+			"BookSmarts - ",
+			"BookSmarts"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rfi.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rfi.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1041,
+								1041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/User/tc.sublime-snippet",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								228
+							]
+						],
+						"settings":
+						{
+							"default_extension": "sublime-snippet",
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rfi.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
