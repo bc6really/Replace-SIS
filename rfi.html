@@ -1,82 +1,172 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
-	<meta charset="utf-8">
-	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <head>
+        <meta charset="utf-8">
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <title>Muhlenberg College - ERP Request for Information</title>
+    </head>
+    <body onload="init()">
+        <div class="container">
+            <div class="col-md-2" id="toc"> <strong>Table of Contents</strong>
+            </div>
+            <div class="col-md-9">
+                <h1>Muhlenberg College ERP</h1>
+                <h1>Request for Information</h1>
+                <h2>
+                <a name="confidentiality">Confidentiality</a>
+                </h2>
+                <p>
+                    All information included in this RFI is confidential and only for the recipient.  No information included in this document or in discussions connected to it may be disclosed to any other party.
+                </p>
+                <h2>
+                <a name="purpose">Introduction and Purpose of the RFI</a>
+                </h2>
+                <p>
+                    With this RFI we request information regarding your company and your products/services.  The same information will be gathered from different companies and will be used to evaluate which company we will select as our Enterprise Resource Planning provider.
+                </p>
+                <h2>
+                <a name="procedure">RFI Procedure</a>
+                </h2>
+                <p>
+                    To answer this RFI please fill in the attached form.  Contact person listed below is available for assistance in case that is needed.
+                    The answers to this RFI will be evaluated by staff from different functional areas in Muhlenberg College.
+                </p>
+                <h3>How to Deliver the Response</h3>
+                <p>
+                    Send the attached form in excel-format (format unchanged) by email to
+                    <a href="mailto:jglasgow@muhlenberg.edu">jglasgow@muhlenberg.edu</a>
+                    .
+                    <h3>Contacts</h3>
+                    <span>
+                        For questions regarding this RFI, you are welcome to contact:
+                    </span>
+                    <ul>
+                        <li>John Glasgow</li>
+                        <li>Project Manager</li>
+                        <li>
+                            <a href="tel:14846643440">484-664-3440</a>
+                        </li>
+                        <li>
+                            <a href="mailto:jglasgow@muhlenberg.edu">jglasgow@muhlenberg.edu</a>
+                        </li>
+                    </ul>
+                    <h3>Timeframe</h3>
+                    <span>
+                        This is the timeframe for the RFI and an eventual coming project
+                    </span>
+                    <ul>
+                        <li>04/01/2016 – The RFI is sent out</li>
+                        <li>05/13/2016 – Last date for questions</li>
+                        <li>05/31/2016 – Last date for submission of answer</li>
+                        <li>07/01/2016 – Final decision for ERP vendor.</li>
+                    </ul>
+                </p>
+                <h2>
+                <a name="general">1.0 General Background Information</a>
+                </h2>
+                <h3>
+                <a name="aboutMuhlenberg">1.1 About Muhlenberg College</a>
+                </h3>
+                <ul>
+                    <li>Founded 1848</li>
+                    <li>Located in Allentown, PA</li>
+                    <li>Middle States Commission on Higher Education accredited</li>
+                    <li>Academically focused on liberal arts and pre-professional studies</li>
+                    <li>302 faculty members (177 full time, 125 part time)</li>
+                    <li>~2,200 students</li>
+                    <li>485 staff members</li>
+                </ul>
+                <h3>
+                <a name="generalpurpose">1.2 Purpose</a>
+                </h3>
+                <p>
+                    The purpose of this Request for Information (RFI) is to provide sufficient information to qualified and interested vendors enabling them to prepare and submit a information regarding an Enterprise Resource Planning System (ERP).  Currently the College uses an best of breed business application strategy and wishes to move to an ERP strategy.  The Student Information System (SIS), Capstone, which has been in use at the College has been in use for more than 30 years.  This system has been the hub of all student data.  We are looking to fortify our business continuity and improve trend forecasting.
+                </p>
+                <p>
+                    Today's higher education market is getting more competitive with a shrinking market in the United States.  As part of our business continuity plan, the College is looking to invest in foreign students and other diverse markets.  To accomplish this goal, as it concerns to an ERP, analytics and forecasting are a primary concern.
+                </p>
+                <p>
+                    In addition, the College needs to reduce time spent on data entry.  Muhlenberg College is going to accomplish this through leveraging the strengths of an ERP.  The College perceives these strengths to be reduced duplication of data entry, improved integration, and end user reporting.
+                </p>
+                <h3>
+                <a name="it">1.3 Information Technology</a>
+                </h3>
+                <ul>
+                    <li>25 Employees</li>
+                    <li>Management Staff
+                        <ul>
+                            <li>CIO - Allan Chen</li>
+                            <li>Systems Manager - Tom Roth</li>
+                            <li>Instructional Technology and Digital Learning Manager - Tom Sciarrino</li>
+                            <li>Support Manager - Rudi McCauley</li>
+                            <li>Network Manager - Bob Mahar</li>
+                        </ul>
+                    </li>
+                    <li>Systems Team (7 employees)
+                        <ul>
+                            <li>1 DBA</li>
+                            <li>1 Programmer</li>
+                            <li>2 Web</li>
+                            <li>1 Integration Specialist</li>
+                            <li>2 Systems Analysts</li>
+                        </ul>
+                    </li>
+                    <li>Support Desk (4 employees)</li>
+                    <li>Networking (5 employees)</li>
+                    <li>Media Services (3 employees)</li>
+                    <li>Desktop Services (2 employees)</li>
+                </ul>
+                <h3><a name="systemsUsed">1.4 Systems</a></h3>
+                <ul>
+                    <li>Student Information System - NCMS Capstone</li>
+                    <li>Finance - Blackbaud Financial Edge</li>
+                    <li>Purchasing - Blackbaud Web Purchasing</li>
+                    <li>Payroll - JetPay</li>
+                    <li>Financial Aid - College Board PowerFaids</li>
+                    <li>Learning Management System - Canvas</li>
+                    <li>Admissions - Technolutions Slate</li>
+                    <li>Counseling Services - Titanium</li>
+                    <li>Advancement - Abila Millennium</li>
+                    <li>Human Resources - Excel and JetPay</li>
+                </ul>
+                <h3><a name="reportingTools">1.5 Reporting Tools</a></h3>
+                <ul>
+                    <li>SQL Server Reporting Services</li>
+                    <li>Crystal Reports</li>
+                    <li>Job Generator (Internally developed application)</li>
+                </ul>
 
-	<!-- Optional theme -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
 
-	<!-- Latest compiled and minified JavaScript -->
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-
-	<title>Muhlenberg College - ERP Request for Information</title>
-</head>
-<body onload="init()">
-	<div class="container">
-		<div class="col-md-2" id="toc">
-			<strong>Table of Contents</strong>
-		</div>
-		<div class="col-md-8">
-			<h1>Muhlenberg College ERP</h1>
-			<h1>Request for Information</h1>
-
-			<h2><a name="confidentiality">Confidentiality</a></h2>
-			<p>All information included in this RFI is confidential and only for the recipient knowledge.  No information included in this document or in discussions connected to it may be disclosed to any other party.</p>
-
-			<h2><a name="purpose">Introduction and Purpose of the RFI</a></h2>
-			<p>With this RFI we request information regarding your company and your products/services.  The same information will be gathered from different companies and will be used to evaluate which company we will select as our Enterprise Resource Planning provider.</p>
-
-			<h2><a name="procedure">RFI Procedure</a></h2>
-			<p>To answer this RFI please fill in the attached form.  Contact person listed below is available for assistance in case that is needed.
-				The answers to this RFI will be evaluated by staff from different functions in Muhlenberg College.</p>
-				<h3>How to Deliver the Response</h3>
-				<p>Send the attached form in excel-format (format unchanged) by email to <a href="mailto:jglasgow@muhlenberg.edu">jglasgow@muhlenberg.edu</a>.
-					<h3>Contacts</h3>
-					<span>For questions regarding this RFI, you are welcome to contact:</span>
-					<ul>
-						<li>John Glasgow</li>
-						<li>Project Manager</li>
-						<li><a href="tel:14846643440">484-664-3440</a></li>
-						<li><a href="mailto:jglasgow@muhlenberg.edu">jglasgow@muhlenberg.edu</a></li>
-					</ul>
-					<h3>Timeframe</h3>
-					<span>This is the timeframe for the RFI and an eventual coming project</span>
-					<ul>
-						<li>04/01/2016 – The RFI is sent out</li>
-						<li>05/13/2016 – Last date for questions</li>
-						<li>05/31/2016 – Last date for submission of answer</li>
-						<li>07/01/2016 – Final decision for ERP vendor.</li>
-					</ul>
-				</p>
-
-				<h2><a name="general">1.0 General Background Information</a></h2>
-				<h3><a name="generalpurpose">1.1 Purpose</a></h3>
-				<p>The purpose of this Request for Information (RFI) is to provide sufficient information to qualified and interested vendors enabling them to prepare and submit a proposal for an Enterprise Resource Planning System (ERP).  Currently the College uses an best of breed business application strategy and wishes to move to an ERP strategy.  The Student Information System (SIS), Capstone, which has been in use at the College has been in use for more than 30 years.  This system is the has been the hub of all student data.  We are looking to fortify our business continuity and improve trend forecasting.  The College seeks numerous improvements such as increased ability for end-user customization, ease of alumni account creation and modification, increased ability/ease for the Alumni Office staff to communicate with Alumni, and increased integration of the system with the Millennium application in use by the Development Office.</p>
-			</div>
-
-			<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-			<!-- Include all compiled plugins (below), or include individual files as needed -->
-			<script src="js/bootstrap.min.js"></script>
-
-			<script type="text/javascript">
-
-				function init() {
-					var toc = document.getElementById("toc"); 
-					var i, li, newAnchor;
-					for (i = 0; i < document.anchors.length; i++) {
-						li = document.createElement("li");
-						newAnchor = document.createElement('a');
-						newAnchor.href = "#" + document.anchors[i].name;
-						newAnchor.innerHTML = document.anchors[i].text;
-						li.appendChild(newAnchor);
-						toc.appendChild(li);
-					}
-				}
-
-			</script>
-		</div>
-	</body>
-	</html>
+                <h2><a name="goals">2.0 Goals</a></h2>
+                <p></p>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
+            <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+            <!-- Include all compiled plugins (below), or include individual files as needed -->
+            <script src="js/bootstrap.min.js"></script>
+            <script type="text/javascript">
+            function init() {
+            var toc = document.getElementById("toc");
+            var i, li, newAnchor;
+            for (i = 0; i < document.anchors.length; i++) {
+            li = document.createElement("li");
+            newAnchor = document.createElement('a');
+            newAnchor.href = "#" + document.anchors[i].name;
+            newAnchor.innerHTML = document.anchors[i].text;
+            li.appendChild(newAnchor);
+            toc.appendChild(li);
+            }
+            }
+        </script></div>
+    </body>
+</html>

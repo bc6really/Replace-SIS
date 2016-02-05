@@ -8,30 +8,19 @@
 	"buffers":
 	[
 		{
+			"file": "rfi.html",
+			"settings":
+			{
+				"buffer_size": 6356,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "rfi.sublime-project",
 			"settings":
 			{
 				"buffer_size": 45,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"en-us\">\n<head>\n	<!-- Latest compiled and minified CSS -->\n	<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\" integrity=\"sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==\" crossorigin=\"anonymous\">\n\n	<!-- Optional theme -->\n	<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css\" integrity=\"sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX\" crossorigin=\"anonymous\">\n\n	<!-- Latest compiled and minified JavaScript -->\n	<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js\" integrity=\"sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==\" crossorigin=\"anonymous\"></script>\n\n	<title>Muhlenberg College - ERP Request for Information</title>\n</head>\n<body>\n<h1>Muhlenberg College - ERP Request for Information</h1>\n<h2>1.0 General Background Information</h2>\n<h3>1.1 Purpose</h3>\n<p>The purpose of this Request for Information (RFI) is to provide sufficient information to qualified and interested vendors enabling them to prepare and submit a proposal for an Enterprise Resource Planning System (ERP).  Currently the College uses an best of breed business application strategy and wishes to move to an ERP strategy.  The Student Information System (SIS), Capstone, which has been in use at the College has been in use for more than 30 years.  This system is the has been the hub of all student data.  We are looking to fortify our business continuity and improve trend forecasting.  The College seeks numerous improvements such as increased ability for end-user customization, ease of alumni account creation and modification, increased ability/ease for the Alumni Office staff to communicate with Alumni, and increased integration of the system with the Millennium application in use by the Development Office.</p>\n</body>\n</html>\n",
-			"file": "rfi.html",
-			"file_size": 2016,
-			"file_write_time": 130929405860000000,
-			"settings":
-			{
-				"buffer_size": 1995,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/User/tc.sublime-snippet",
-			"settings":
-			{
-				"buffer_size": 320,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -42,12 +31,44 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 104.0,
-		"last_filter": "",
+		"height": 375.0,
+		"last_filter": "format",
 		"selected_items":
 		[
+			[
+				"format",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet:",
+				"Snippet: <?php … ?>"
+			]
 		],
-		"width": 392.0
+		"width": 450.0
 	},
 	"console":
 	{
@@ -71,8 +92,30 @@
 	],
 	"file_history":
 	[
+		"//r25liveasvprod/text_data/datain201508201512080101017.dat",
+		"/C/Users/John/Documents/GroupWise/datain.dat",
+		"/C/Users/John/Documents/GroupWise/Part.001",
+		"/C/Users/John/AppData/Local/Temp/R25FAFB.tmp",
+		"/C/Users/John/AppData/Local/Temp/Temp1_ERR2015121508.zip/function20151215010108.err",
+		"/C/Users/John/Documents/Visual Studio 2008/Projects/Import Exception Reports/Import Exception Reports/bin/Debug/build.obj",
+		"/C/Users/John/Documents/Visual Studio 2008/Projects/Import Exception Reports/Import Exception Reports/Duplicate Phones Filtered By Source Verbose - Backup.rdl",
+		"/C/Users/John/Documents/Visual Studio 2008/Projects/Import Exception Reports/Import Exception Reports/Exception Reports.rptproj",
+		"/C/Users/John/Documents/Visual Studio 2008/Projects/Import Exception Reports/Import Exception Reports/Sources.rsd",
+		"/C/Users/John/Documents/Visual Studio 2008/Projects/Import Exception Reports/Import Exception Reports/Exception Reports.rptproj.user",
+		"/C/Users/John/Documents/Visual Studio 2008/Projects/Import Exception Reports/Import Exception Reports.suo",
+		"/C/Users/John/Documents/Visual Studio 2008/Projects/Import Exception Reports/Import Exception Reports.sln",
+		"/J/R25 Delete Pending Reservations/R25 Delete Pending Reservation.exe.config",
 		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Installed Packages/Tag.sublime-package",
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/User/reindentall.sublime-macro",
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/User/majorheader.sublime-snippet",
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/User/muhlenberg.sublime-snippet",
 		"/K/Documentation/Capstone Migration/RFI/rfi.sublime-project",
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/User/tc.sublime-snippet",
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/User/minorheader.sublime-snippet",
 		"/K/Documentation/Capstone Migration/RFI/mysnippets.sublime-snippet",
 		"/K/Documentation/Capstone Migration/RFI/rfi.html",
 		"/K/Documentation/Capstone Migration/RFI/tc.sublime-snippet",
@@ -87,7 +130,6 @@
 		"/C/Users/John/Source/MailRoomComboAndBoxMaintainer/MailRoomComboAndBoxMaintainer.sln",
 		"/C/Users/John/Downloads/PA.rdl",
 		"/C/Users/John/Documents/Visual Studio 2008/Projects/MailRoomComboAndBoxMaintainer.root/MailRoomComboAndBoxMaintainer/MailRoomComboAndBoxMaintainer.sln",
-		"/C/Users/John/Documents/GroupWise/datain.dat",
 		"/L/VagrantBaseBoxes/vagrantfile-windows_7.template",
 		"/L/VagrantBaseBoxes/Windows7.json",
 		"/L/VagrantBaseBoxes/Windows7/Windows7.json",
@@ -138,6 +180,33 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\\d\\)\\s",
+			", $",
+			"\\s\\w*$",
+			"\\s,",
+			"\\s\\/.*",
+			"^\\d",
+			". ",
+			", ",
+			"^",
+			"ctrl+shift+r",
+			"asdfasdfasdfasdfsa",
+			"h1",
+			"h3",
+			"RFI",
+			"h1",
+			"shift",
+			"ul",
+			"caret",
+			"caret				",
+			"caret",
+			"RFI",
+			"for",
+			"RFI",
+			"submission",
+			"07",
+			"						<",
+			"col",
 			",",
 			"$",
 			"^",
@@ -150,6 +219,10 @@
 		"regex": true,
 		"replace_history":
 		[
+			"\n",
+			"",
+			", ",
+			"",
 			"|",
 			"\"",
 			"\",\"",
@@ -166,13 +239,111 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "rfi.sublime-project",
+					"file": "rfi.html",
 					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6356,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								5314,
+								5314
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1035.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "rfi.sublime-project",
+					"semi_transient": true,
 					"settings":
 					{
 						"buffer_size": 45,
@@ -182,76 +353,81 @@
 						"selection":
 						[
 							[
-								45,
-								45
+								16,
+								16
 							]
 						],
 						"settings":
 						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "rfi.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1995,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1041,
-								1041
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/User/tc.sublime-snippet",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 320,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								228,
-								228
-							]
-						],
-						"settings":
-						{
-							"default_extension": "sublime-snippet",
-							"syntax": "Packages/XML/XML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -263,7 +439,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -292,6 +468,10 @@
 	{
 		"height": 0.0
 	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
 	"pinned_build_system": "",
 	"project": "rfi.sublime-project",
 	"replace":
@@ -305,6 +485,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"rfi",
+				"rfi.html"
+			]
 		],
 		"width": 0.0
 	},
@@ -319,19 +503,23 @@
 	},
 	"select_symbol":
 	{
-		"height": 0.0,
+		"height": 58.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"init"
+			]
 		],
-		"width": 0.0
+		"width": 392.0
 	},
 	"selected_group": 0,
 	"settings":
 	{
 	},
-	"show_minimap": true,
-	"show_open_files": false,
+	"show_minimap": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 222.0,
