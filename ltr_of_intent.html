@@ -1,0 +1,67 @@
+    <!DOCTYPE html>
+    <html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <title>Muhlenberg College - ERP Request for Information</title>
+    </head>
+    <body onload="init()">
+        <div class="container">
+            <h1>Letter of Intent to Respond to RFI</h1>
+            <h2>LOI.1 Applicable Dates:</h2>
+            <strong>
+                    <ul>
+                        <li>04/08/2016 – Issue Request for Information</li>
+                        <li>04/15/2016 - Letter-of-Intent to Respond Due</li>
+                        <li>05/31/2016 at 5p.m. – RFI Response Due</li>
+                        <li>07/15/2016 5p.m.– Final decision for ERP vendor.</li>
+                    </ul>
+            </strong>
+            <em>The college reserves the right to revise this schedule.</em>
+            <h2>LOI.2 Amendments to Specifications</h2>
+            <p>Any amendments to or errors in the specifications brought to the attention of the college will be added to or corrected and distributed to all those holding specifications.</p>
+            <h2>LOI.3 Letter of Intent-to-Respond</h2>
+            <p>Proposers wishing to participate in this RFI process must complete the form in section LOI.5 to indicate an Intent-to-Respond. Forms must be received by the date provided in the schedule found in section LOI.1 of this RFI. The letter must state the intent of the proposer to participate in the process and their acceptance of the RFI evaluation criteria, process, and the instructions of the RFI.  The letter should also include the name, email, complete address and phone number of a designated individual to whom any correspondence/addendums should be sent.</p>
+            <h2>LOI.4 Communications</h2>
+            <p>In order to most effectively and efficiently communicate with proposers, the college is asking all vendors that have an interest in possibly submitting a response to this RFI, to provide this form to the college. The form is in section LOI.5. The purpose of this “Letter of Intent” is to identify contact personnel who should receive all bid amendments and other possible bid correspondence throughout the course of this solicitation. E-mail will be used to communicate with all those who provide a “letter of intent”. Proposers should recognize that failing to provide a “Letter of Intent” will result in reduced time to consider and respond to RFI correspondence and documentation.</p>
+
+            Your “letter of intent” should be submitted by <strong>April 16, 2016</strong> to ensure immediate consideration; however, the college will accept “Letter of Intent to Respond” after this date.
+            <h3>LOI.5 Letter of Intent</h3>
+            <form enctype="text/plain" method="Post" action="mailto:jglasgow@muhlenberg.edu?Subject=Letter of Intent" >
+                <div class="col-md-7">
+                <div class="row"><input type="radio" name="Consent" id="consent" checked="true" value="My company wishes to participate in the Request for Information procedure."><label>My company wishes to participate in the Request for Information procedure.</label></input></div>
+                <div class="row"><input type="radio" name="Consent" id="dontconsent" value="My company does NOT wish to participate in the Request for Information procedure."><label>My company does NOT wish to participate in the Request for Information procedure.</label></input></div>
+                <div class="row"><label for="company" class="col-md-5">Company</label><input class="col-md-7" name="Company" type="text" id="company"></input></div>
+                <div class="row"><label for="name" class="col-md-5">Name</label><input class="col-md-7" name="Name" type="text" id="name"></input></div>
+                <div class="row"><label for="email" class="col-md-5">Email</label><input class="col-md-7" name="Email" type="email" id="email"></input></div>
+                <div class="row"><label for="phone" class="col-md-5">Phone Number</label><input class="col-md-7" name="Phone" id="phone" type="tel"></input></div>
+                <div class="row"><label class="col-md-5">Address</label><textarea name="Address" id="address" cols="30" rows="6" class="col-md-7"></textarea></div>
+                <div class="row"><input type="submit" value="Submit"></input></div>
+                </div>
+
+            </form>
+            <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+            <!-- Include all compiled plugins (below), or include individual files as needed -->
+            <script src="js/bootstrap.min.js"></script>
+            <script type="text/javascript">
+                function init() {
+                    var toc = document.getElementById("toc");
+                    var i, li, newAnchor;
+                    for (i = 0; i < document.anchors.length; i++) {
+                        li = document.createElement("li");
+                        newAnchor = document.createElement('a');
+                        newAnchor.href = "#" + document.anchors[i].name;
+                        newAnchor.innerHTML = document.anchors[i].text;
+                        li.appendChild(newAnchor);
+                        toc.appendChild(li);
+                    }
+                }
+            </script></div>
+        </body>
+        </html>
