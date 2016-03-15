@@ -51,7 +51,7 @@
 			"file": "rfi.html",
 			"settings":
 			{
-				"buffer_size": 25147,
+				"buffer_size": 24821,
 				"line_ending": "Windows"
 			}
 		},
@@ -148,6 +148,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/John/Documents/Visual Studio 2008/Projects/ClientApps/FinAid.root/FinAid/FinAid/bin/Debug/FinAid.exe.config",
 		"/C/Users/John/Documents/Visual Studio 2013/Projects/MusicSchedulingJobs/MusicSchedulingCleanup/EmailtoStudents.txt",
 		"/K/Documentation/Capstone Migration/RFI/ltr_of_intent.html",
 		"/K/Documentation/Millennium/Philanthropy Reports/mill_tasks_script.sql",
@@ -243,6 +244,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\",",
 			"\\,$",
 			"\"",
 			"RFP",
@@ -351,7 +353,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 25147,
+						"buffer_size": 24821,
 						"regions":
 						{
 							"bookmarks":
@@ -367,8 +369,8 @@
 						"selection":
 						[
 							[
-								17928,
-								17928
+								24033,
+								24033
 							]
 						],
 						"settings":
@@ -382,26 +384,41 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -412,26 +429,11 @@
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/VisualStudio (Dark) (SL).tmTheme",
 							"incomplete_sync": null,
@@ -439,7 +441,7 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 3406.0,
+						"translation.y": 4137.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -587,7 +589,7 @@
 	"project": "rfi.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
